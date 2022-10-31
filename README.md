@@ -1,2 +1,5 @@
 # tic-tac-toe
-A simple tic-tac-toe game made in C++
+It's pretty straight forward on how to play the game
+
+## One thing not to do:
+-Please don't put a different variable type from what is declared. This will cause some weird things to happen
